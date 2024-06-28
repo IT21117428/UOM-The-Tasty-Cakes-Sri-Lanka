@@ -6,3 +6,20 @@
 .img{
     float: right;
 }
+
+.pricetopic{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+table{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+
+th, td{
+    text-align: left;
+    padding: 8px;
+}
