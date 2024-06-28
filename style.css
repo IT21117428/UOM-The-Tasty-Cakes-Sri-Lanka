@@ -23,3 +23,16 @@ th, td{
     text-align: left;
     padding: 8px;
 }
+
+footer{
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
