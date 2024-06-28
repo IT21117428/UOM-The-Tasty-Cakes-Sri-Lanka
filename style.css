@@ -1,3 +1,9 @@
+body{
+    background-color: #e6f3ff;
+    margin: 100px;
+    margin-top: 50px;
+}
+
 .tagline{
     color: blueviolet;
     font-style: italic;
@@ -10,6 +16,7 @@
 .pricetopic{
     font-size: 25px;
     font-weight: bold;
+    padding-top: 115px;
 }
 
 table{
@@ -21,7 +28,7 @@ table{
 
 th, td{
     text-align: left;
-    padding: 8px;
+    padding: 16px;
 }
 
 footer{
@@ -33,6 +40,7 @@ footer{
     color: black;
     position: fixed;
     width: 100%;
+    padding-top: 10px;
     left: 0;
     bottom: 0;
 }
